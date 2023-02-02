@@ -2,7 +2,7 @@
   {
     "name": "Cypress",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "tools1",
     "isNew": "TRUE",
     "description": "test"
   },
@@ -16,7 +16,7 @@
   {
     "name": "Tosca",
     "ring": "trial",
-    "quadrant": "tools",
+    "quadrant": "tools1",
     "isNew": "FALSE",
     "description": "test"
   },
