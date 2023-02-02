@@ -33,5 +33,19 @@
     "quadrant": "techniques",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
+  },
+    {
+    "name": "HP-ALM",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
+  },
+   {
+    "name": "EDP",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
   }
 ]
