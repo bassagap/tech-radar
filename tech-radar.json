@@ -2,14 +2,14 @@
   {
     "name": "Cypress",
     "ring": "adopt",
-    "quadrant": "frameworks",
+    "quadrant": "tools",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Geb/Spok",
     "ring": "trial",
-    "quadrant": "frameworks",
+    "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "test"
   },
