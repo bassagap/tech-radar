@@ -4,21 +4,21 @@
     "ring": "adopt",
     "quadrant": "Functional Testing",
     "isNew": "TRUE",
-    "description": "test"
+    "description": "Cypress Framework is an open-source automation tool for web app testing"
   },
   {
     "name": "Playwright",
     "ring": "assess",
     "quadrant": "Functional Testing",
     "isNew": "TRUE",
-    "description": "test"
+    "description": "Playwright framework is an open-source, Nodejs-based automation framework for end-to-end testing. It supports multiple languages such as JavaScript, Java, Python, and .NET C#"
   },
   {
     "name": "Postman",
     "ring": "assess",
     "quadrant": "Functional Testing",
     "isNew": "TRUE",
-    "description": "test"
+    "description": "Postman is an aplication that allows to test APIs through a graphic user interface"
   },
   {
     "name": "Geb/Spok",
