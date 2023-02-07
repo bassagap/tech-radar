@@ -25,14 +25,14 @@
     "ring": "adopt",
     "quadrant": "Functional Testing",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "GEB is a developer focused tool for automating the interaction between web browsers and web content. It uses the dynamic language features of Groovy "
   },
   {
     "name": "Tosca",
-    "ring": "hold",
+    "ring": "adopt",
     "quadrant": "Functional Testing",
     "isNew": "FALSE",
-    "description": "test"
+    "description": "It is a codeless tool to develop end-to-end tests."
   },
   {
     "name": "Load Runner",
@@ -46,18 +46,18 @@
     "ring": "assess",
     "quadrant": "performance",
     "isNew": "FALSE",
-    "description": "Simplifique las pruebas de rendimiento y de carga."
+    "description": "The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance"
   },
   {
     "name": "k6",
     "ring": "assess",
     "quadrant": "performance",
     "isNew": "FALSE",
-    "description": "Simplifique las pruebas de rendimiento y de carga."
+    "description": "Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible."
   },
   {
     "name": "Great Expectations",
-    "ring": "assess",
+    "ring": "trial",
     "quadrant": "data quality",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
@@ -71,14 +71,14 @@
   },
   {
     "name": "HP-ALM",
-    "ring": "assess",
+    "ring": "hold",
     "quadrant": "testing management tools",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
   },
    {
     "name": "EDP",
-    "ring": "assess",
+    "ring": "adopt",
     "quadrant": "testing management tools",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
