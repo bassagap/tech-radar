@@ -2,49 +2,84 @@
   {
     "name": "Cypress",
     "ring": "adopt",
-    "quadrant": "tools paula",
+    "quadrant": "Functional Testing",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Playwright",
+    "ring": "assess",
+    "quadrant": "Functional Testing",
+    "isNew": "TRUE",
+    "description": "test"
+  },
+  {
+    "name": "Postman",
+    "ring": "assess",
+    "quadrant": "Functional Testing",
     "isNew": "TRUE",
     "description": "test"
   },
   {
     "name": "Geb/Spok",
-    "ring": "trial",
-    "quadrant": "languages & frameworks",
+    "ring": "adopt",
+    "quadrant": "Functional Testing",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "Tosca",
-    "ring": "trial",
-    "quadrant": "tools paula",
+    "ring": "hold",
+    "quadrant": "Functional Testing",
     "isNew": "FALSE",
     "description": "test"
   },
   {
     "name": "Load Runner",
-    "ring": "hold",
-    "quadrant": "techniques",
+    "ring": "adopt",
+    "quadrant": "performance",
     "isNew": "FALSE",
     "description": "Simplifique las pruebas de rendimiento y de carga."
   },
-    {
+  {
+    "name": "Jmeter",
+    "ring": "assess",
+    "quadrant": "performance",
+    "isNew": "FALSE",
+    "description": "Simplifique las pruebas de rendimiento y de carga."
+  },
+  {
+    "name": "k6",
+    "ring": "assess",
+    "quadrant": "performance",
+    "isNew": "FALSE",
+    "description": "Simplifique las pruebas de rendimiento y de carga."
+  },
+  {
     "name": "Great Expectations",
     "ring": "assess",
-    "quadrant": "techniques",
+    "quadrant": "data quality",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
   },
-    {
+  {
+    "name": "Data Integrity",
+    "ring": "assess",
+    "quadrant": "data quality",
+    "isNew": "TRUE",
+    "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
+  },
+  {
     "name": "HP-ALM",
     "ring": "assess",
-    "quadrant": "platforms",
+    "quadrant": "testing management tools",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
   },
    {
     "name": "EDP",
     "ring": "assess",
-    "quadrant": "platforms",
+    "quadrant": "testing management tools",
     "isNew": "TRUE",
     "description": "Profile, test, and document with an open source platform developed by data engineers, for data engineers."
   }
